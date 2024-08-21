@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-**Celsyum/Celsyum** 
-
-Here are some ideas to get you started:
+**Celsyum** 
 
 - 🔭 I’m currently working on aws ecs and ec2
 - 🌱 I’m currently learning laravel
