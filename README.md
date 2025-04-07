@@ -4,5 +4,5 @@
 **Celsyum** 
 
 - 🔭 I’m currently working on aws ecs and ec2
-- 🌱 I’m currently learning laravel
+- 🌱 I’m always learning laravel, slimframework, typescript, c#
 - 📫 How to reach me: @celsyum everywhere
